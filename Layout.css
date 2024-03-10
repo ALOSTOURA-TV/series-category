@@ -1,3 +1,5 @@
+<style id='page-skin-1' type='text/css'><!--
+
 reset.css
 
 html, body, .section, .widget, div, span, applet, object, iframe,
@@ -4568,7 +4570,7 @@ border-top-color: #ffc800;
 width: 100%;
 -webkit-box-shadow: 0 1px 18px #04030e;
 box-shadow: 0 1px 18px #04030e;
-height: 220px;
+height: 420px;
 border-radius: 5px;
 overflow: hidden;
 /* margin-bottom: 15px; */
@@ -6709,7 +6711,7 @@ body#layout #Blog1 .widget-content {
 border-color: #34495e
 }
 body#layout .draggable-widget .widget-wrap2 {
-background: #0080ce url(https://www.blogger.com/img/widgets/draggable.png) no-repeat 4px 50%;
+background: #0080ce url(#) no-repeat 4px 50%;
 }
 body#layout .editlink {
 background: #0080ce;
