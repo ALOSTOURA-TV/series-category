@@ -1,5 +1,4 @@
 <style id='page-skin-1' type='text/css'><!--
-
 reset.css
 
 html, body, .section, .widget, div, span, applet, object, iframe,
@@ -4570,10 +4569,10 @@ border-top-color: #ffc800;
 width: 100%;
 -webkit-box-shadow: 0 1px 18px #04030e;
 box-shadow: 0 1px 18px #04030e;
-height: 420px;
+height: 75%;
 border-radius: 5px;
 overflow: hidden;
-/* margin-bottom: 15px; */
+margin-bottom: 0px;
 position: relative;
 border-bottom-left-radius: 0;
 border-bottom-right-radius: 0;
@@ -4678,7 +4677,7 @@ z-index: 1;
 }
 .Breadcrumbs {
 display: block;
-background: #3e4a92;
+background: #3E4A92;
 font-weight: 700;
 padding: 6px 15px;
 border-radius: 5px;
@@ -5362,9 +5361,7 @@ list-style: none;
 padding: 0;
 margin: 0;
 }
-.Breadcrumbs ul.BreadcrumbsFilters * {
-display: inline-block;
-}
+
 .Breadcrumbs ul.BreadcrumbsFilters i {
 margin: 0 7px;
 font-weight: 900;
@@ -6711,7 +6708,7 @@ body#layout #Blog1 .widget-content {
 border-color: #34495e
 }
 body#layout .draggable-widget .widget-wrap2 {
-background: #0080ce url(#) no-repeat 4px 50%;
+background: #0080ce url(https://www.blogger.com/img/widgets/draggable.png) no-repeat 4px 50%;
 }
 body#layout .editlink {
 background: #0080ce;
